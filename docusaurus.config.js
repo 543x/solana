@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/teabagging/reactstart/edit/main',
+            'https://github.com/543x/solana/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/teabagging/reactstart/edit/main',
+            'https://github.com/543x/solana/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -85,7 +85,7 @@ const config = {
           {to: '/docs/soldeveloper/advanced/actions', label: 'developer', position: 'right'},
           { href: 'https://e.543x.com', label: 'Help', position: 'right' },
           {
-            href: 'https://github.com/543X/docusaurus',
+            href: 'https://github.com/543x/solana',
             label: 'GitHub',
             position: 'right',
           },
@@ -125,7 +125,7 @@ const config = {
               },
               {
                 label: 'GitHub Discussions',
-                href: 'https://github.com/543X/create-react-app/discussions',
+                href: 'https://github.com/543x/solana',
               },
               {
                 label: 'Pump',

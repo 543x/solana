@@ -92,7 +92,7 @@ function Home() {
       </Link>
     </li>
     <li>
-      <Link href="https://solanalabs.com" className="!text-white">
+      <Link href="https://www.543x.com" className="!text-white">
         🌐 docs.solanalabs.com
       </Link>
     </li>
@@ -102,7 +102,7 @@ function Home() {
     <Link href="https://www.543x.com" className="!text-white">
       solana.com/docs
     </Link>, which contains all the common information an application developer would need to know and understand to build on Solana, including the Solana programming model's{" "}
-    <Link href="https://solana.com/docs/core/accounts" className="!text-white">
+    <Link href="https://d.543x.com" className="!text-white">
       Core Concepts 📚
     </Link>, <Link href="https://a.543x.com" className="!text-white">Solana RPC methods 🔍</Link>, and writing onchain programs.
   </p>
